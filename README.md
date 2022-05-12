@@ -1,8 +1,6 @@
 ### Hello, my name is Artem!
-### I'm an iOS developer
 
 ![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ListopadovArt&theme=solarized_dark)
-
 
 
 ---
