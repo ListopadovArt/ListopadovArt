@@ -1,4 +1,4 @@
-### Hello, my name is Artem  8-)
+### Hello, my name is Artem!
 ### I'm an iOS developer
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=ListopadovArt&hide=issues,contribs&show_icons=true&theme=merko)
