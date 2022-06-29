@@ -1,4 +1,3 @@
-### Hello, my name is Artem!
 
 ![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ListopadovArt&theme=solarized_dark)
 
@@ -22,5 +21,3 @@
 + Git, Figma, Jira
 
 ---
-
-[Write me an email](from.artem.listopadov@gmail.com)
