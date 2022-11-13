@@ -6,18 +6,24 @@
 #### Language and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ListopadovArt&layout=compact)
 + Cocoapods
++ Foundation
 + UIKit
-+ JSON
-+ RxSwift
-+ MVC, MVVM
-+ Storyboards, Xib
 + Autolayout
++ Storyboards, Xib
++ JSON
++ SwiftyJSON
 + Alamofire, URLSession
++ GCD
 + CoreLocation
 + AVFoundation
++ RxSwift
++ ARKit
++ Vision and CoreML
++ SpriteKit
 + Realm
-+ GCD
-+ Kingfisher
++ Singleton, MVC, MVVM
++ Kingfisher, SDWebImage
++ Error handling
++ Delegate Pattern
 + Git, Figma, Jira
-
 ---
