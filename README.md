@@ -1,8 +1,6 @@
 
 ![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ListopadovArt&theme=solarized_dark)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user2938Fr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ---
 <h3 align="left">Languages and Tools:</h3>
 
